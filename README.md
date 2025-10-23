@@ -2,7 +2,7 @@
 ### Machine Learning Approach for Rock Mass Classification with Imbalanced Database of TBM Tunnelling in Himalayan Geology  
 
 **Authors:** Tek Bahadur Katuwal, Krishna Kanta Panthi, Chhatra Bahadur Basnet  
-**Published in:** *Rock Mechanics and Rock Engineering (2025)*  
+**Published in:** *Rock Mechanics and Rock Engineering (2024)*  
 **DOI:** [https://doi.org/10.1007/s00603-024-04212-x](https://doi.org/10.1007/s00603-024-04212-x)
 
 ---
